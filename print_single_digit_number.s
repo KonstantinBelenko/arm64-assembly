@@ -1,3 +1,6 @@
+// This program can print a number from 0 to 9 to stdout by
+//  converting it to it's apropriate ASCII representation.
+
 // Please keep in mind that his program allocates memory
 // 	from the operating system and doesn't free it in the end.
 //  You will need to take care of this later if you will
